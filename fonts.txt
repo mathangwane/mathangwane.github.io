@@ -1,0 +1,12 @@
+USE FONT ON THE WEB  
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Urbanist:wght@200;300&display=swap" rel="stylesheet">
+
+
+CSS RULES TO SPECIFY FAMILIES
+font-family: 'Poppins', sans-serif;
+font-family: 'Urbanist', sans-serif;
+
+https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
