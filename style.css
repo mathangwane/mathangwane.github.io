@@ -26,11 +26,11 @@
 
 .banner-text h1{
 	font-size: 130px;
-	font-family: 'Acme', cursive;
+	font-family: 'Acme';
 }
 
 .banner-text p{
-	font-size: 20px;
+	font-size: 30px;
 	font-style: italic;
 }
 
