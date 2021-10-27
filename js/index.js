@@ -61,7 +61,7 @@ window.onload = function () {
     //Handle Clicks on Project Cards
     const PROJECT_URLS = [
         './freshspace',
-        '#',
+        'https://www.mediafire.com/folder/x7wzj3os6asaw/',
         './calculator',
         './clock',
         '#',
